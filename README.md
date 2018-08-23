@@ -1,26 +1,9 @@
-# Data Structure
+## Algorithms implementation in C++
+This is the repository of All basic algorithms using c-plus-plus (C++) :)
 
-*Language: C++*
-
-### Topics Covered
-- Array Manipulaion	
-- Binary Search Tree
-- Linked List	
-- Stack
-- Queue
-- Heap
-- Lowest Common Ancestor
-- Trie Tree 
-- Range-Minimum-Query	
-  - Segment Tree
-  - Square Root Decomposition
-- Searching Sorting and Backtraking
-  - Binary Search
-  - Bubble Sort
-  - Heap Sort
-  - Insertion Sort
-  - Merge Sort
-  - Quick Sort
-  - Selection Sort
-  - String Searching
-- Two Pointer
+### Coded by
+Md. Saiful Haque Hridoy
+### Facebook
+https://www.facebook.com/unwantedhridoy.cptrii
+### Email
+md.saifulhq@gmail.com
